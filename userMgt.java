@@ -3,4 +3,3 @@ simon
 dominion
 Ayo 
 obi
-Manager
